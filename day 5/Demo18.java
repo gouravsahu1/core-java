@@ -2,8 +2,8 @@ class Demo18
 {
 	public static void main(String[]arg)
 	{
- 		if(1)
-			System.out.print("ram");
+ 		int x=078
+			System.out.print(x);
 		
 		
 	}
